@@ -1,11 +1,13 @@
 // ==UserScript==
-// @name        Optimized Content List
-// @namespace   Violentmonkey Scripts
-// @match       https://moodle.bbbaden.ch/course/view.php*
-// @grant       none
-// @version     0.1
-// @author      PianoNic
-// @grant       GM_addStyle
+// @name         Optimized Content List
+// @namespace    Violentmonkey Scripts
+// @match        https://moodle.bbbaden.ch/course/view.php*
+// @grant        none
+// @version      0.1
+// @author       PianoNic
+// @downloadURL  https://github.com/BBBaden-Moodle-userscripts/OptimizedContentList/raw/main/OptimizedContentList.user.js
+// @updateURL    https://github.com/BBBaden-Moodle-userscripts/OptimizedContentList/raw/main/OptimizedContentList.user.js
+// @grant        GM_addStyle
 // ==/UserScript==
 
 (function() {

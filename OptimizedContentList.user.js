@@ -7,6 +7,7 @@
 // @author       PianoNic
 // @downloadURL  https://github.com/BBBaden-Moodle-userscripts/OptimizedContentList/raw/main/OptimizedContentList.user.js
 // @updateURL    https://github.com/BBBaden-Moodle-userscripts/OptimizedContentList/raw/main/OptimizedContentList.user.js
+// @icon         https://github.com/BBBaden-Moodle-userscripts/OptimizedContentList/blob/main/icons/icon.png?raw=true
 // @grant        GM_addStyle
 // ==/UserScript==
 
